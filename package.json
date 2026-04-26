@@ -1,0 +1,8 @@
+{
+  "name": "cursor-plugin-cc",
+  "version": "0.8.10",
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/"
+  }
+}

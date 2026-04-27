@@ -21,9 +21,9 @@ Add this folder as a local marketplace in Claude Code, enable the `cursor` plugi
 ## Commands
 
 
-| Command                 |                                                 |                                                                |
+| Command                 |  What it does                                   |                                                                |
 | ----------------------- | ----------------------------------------------- | -------------------------------------------------------------- |
-| `/cursor:agent <task>`  | What it does                                    | Delegate a task to Cursor (default: background, write-capable) |
+| `/cursor:agent <task>`  | Delegate a task to Cursor (default: background, write-capable) |                                                 |
 | `/cursor:sessions [id]` | List jobs for this repo, or show one            |                                                                |
 | `/cursor:done [id]`     | Show the stored final output for a finished job |                                                                |
 | `/cursor:stop [id]`     | Cancel an active background job                 |                                                                |

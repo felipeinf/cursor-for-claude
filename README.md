@@ -21,13 +21,13 @@ Add this folder as a local marketplace in Claude Code, enable the `cursor` plugi
 ## Commands
 
 
-| Command                 |  What it does                                   |                                                                |
-| ----------------------- | ----------------------------------------------- | -------------------------------------------------------------- |
-| `/cursor:agent <task>`  | Delegate a task to Cursor (default: background, write-capable) |                                                 |
-| `/cursor:sessions [id]` | List jobs for this repo, or show one            |                                                                |
-| `/cursor:done [id]`     | Show the stored final output for a finished job |                                                                |
-| `/cursor:stop [id]`     | Cancel an active background job                 |                                                                |
-| `/cursor:setup`         | Check install + auth                            |                                                                |
+| Command                 |  What it does                                   |                                                                
+| ----------------------- | ----------------------------------------------- | 
+| `/cursor:agent <task>`  | Delegate a task to Cursor (default: background, write-capable) |                                                 
+| `/cursor:sessions [id]` | List jobs for this repo, or show one            |                                                                
+| `/cursor:done [id]`     | Show the stored final output for a finished job |                                                                
+| `/cursor:stop [id]`     | Cancel an active background job                 |                                                                
+| `/cursor:setup`         | Check install + auth                            |                                                                
 
 
 ## Examples

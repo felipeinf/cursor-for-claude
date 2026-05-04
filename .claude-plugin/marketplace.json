@@ -1,7 +1,7 @@
 {
   "name": "cursor-plugin-cc",
   "owner": {
-    "name": "Felipe"
+    "name": "felipeinf"
   },
   "metadata": {
     "description": "Claude Code plugin for delegating tasks to Cursor.",
@@ -13,7 +13,7 @@
       "description": "Delegate tasks to Cursor from Claude Code and manage background jobs.",
       "version": "0.8.10",
       "author": {
-        "name": "Felipe"
+        "name": "felipeinf"
       },
       "source": "./plugins/cursor"
     }

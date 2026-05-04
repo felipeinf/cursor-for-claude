@@ -4,7 +4,7 @@ description: Proactively use when Claude Code should hand a substantial coding t
 model: sonnet
 tools: Bash
 skills:
-  - cursor-cli-runtime
+  - cursor-companion-contract
   - cursor-prompting
 ---
 
